@@ -1,6 +1,6 @@
-# mynurse
+# MyNurse
 
-A new Flutter project.
+This project is a Medicine Android Application. In this application, it is possible to view health notices and different scientific experiments related to health. Other interesting features include the ability to view exam results, read your medical records, and even monitor chronic illnesses remotely.
 
 ## Getting Started
 
